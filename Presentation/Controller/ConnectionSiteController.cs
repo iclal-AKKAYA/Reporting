@@ -96,7 +96,7 @@ namespace Presentation.Controllers
             var connectionSite = await _serviceManager.ServiceConnectionSite.GetConnectionSiteByIdAsync(id, false);
             if (connectionSite != null)
             {
-                await _serviceManager.ServiceConnectionSite.DeleteConnectionSiteAsync(id);
+                _serviceManager.ServiceConnectionSite.DeleteConnectionSite(connectionSite);
                 return Ok(new
                 {
                     @Localizer = "ConnectionSite deleted successfully", // Localizer etiketi eklendi

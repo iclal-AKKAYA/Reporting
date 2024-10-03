@@ -3464,11 +3464,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ici\\source\\repos\\Reporting\\Repositories\\Repositories.csproj",
+      "projectUniqueName": "C:\\Users\\ici\\Source\\Repos\\ReportingWeb_API\\Repositories\\Repositories.csproj",
       "projectName": "Repositories",
-      "projectPath": "C:\\Users\\ici\\source\\repos\\Reporting\\Repositories\\Repositories.csproj",
+      "projectPath": "C:\\Users\\ici\\Source\\Repos\\ReportingWeb_API\\Repositories\\Repositories.csproj",
       "packagesPath": "C:\\Users\\ici\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ici\\source\\repos\\Reporting\\Repositories\\obj\\",
+      "outputPath": "C:\\Users\\ici\\Source\\Repos\\ReportingWeb_API\\Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ici\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3486,8 +3486,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ici\\source\\repos\\Reporting\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\ici\\source\\repos\\Reporting\\Entities\\Entities.csproj"
+            "C:\\Users\\ici\\Source\\Repos\\ReportingWeb_API\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\ici\\Source\\Repos\\ReportingWeb_API\\Entities\\Entities.csproj"
             }
           }
         }

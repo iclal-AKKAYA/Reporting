@@ -4112,11 +4112,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ici\\source\\repos\\Reporting\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Users\\ici\\Source\\Repos\\ReportingWeb_API\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\ici\\source\\repos\\Reporting\\Entities\\Entities.csproj",
+      "projectPath": "C:\\Users\\ici\\Source\\Repos\\ReportingWeb_API\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\ici\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ici\\source\\repos\\Reporting\\Entities\\obj\\",
+      "outputPath": "C:\\Users\\ici\\Source\\Repos\\ReportingWeb_API\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ici\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0phJAPwM8Ww=",
+  "dgSpecHash": "F48YMG+mvWQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ici\\source\\repos\\Reporting\\Repositories\\Repositories.csproj",
+  "projectFilePath": "C:\\Users\\ici\\Source\\Repos\\ReportingWeb_API\\Repositories\\Repositories.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ici\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ici\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

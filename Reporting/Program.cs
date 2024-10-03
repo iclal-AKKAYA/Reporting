@@ -2,11 +2,11 @@ using Microsoft.EntityFrameworkCore;
 using Reporting.Data; // Doðru namespace'i eklediðinizden emin olun
 using Repositories.EFCore; // RepositoryContext için gerekli namespace
 using Microsoft.AspNetCore.Identity;
-using Services.Contracts; // ServiceManager için gerekli namespace
-using Services; // Servislerin yönetimi için
 using Repositories.Contracts;
-using Microsoft.Azure.SignalR.Management;
-using Repositories; // RepositoryManager için gerekli namespace
+
+using Repositories;
+using Services.Contracts;
+using Services; // RepositoryManager için gerekli namespace
 
 var builder = WebApplication.CreateBuilder(args);
 

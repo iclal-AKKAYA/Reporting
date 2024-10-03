@@ -6413,11 +6413,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ici\\source\\repos\\Reporting\\Presentation\\Presentation.csproj",
+      "projectUniqueName": "C:\\Users\\ici\\Source\\Repos\\ReportingWeb_API\\Presentation\\Presentation.csproj",
       "projectName": "Presentation",
-      "projectPath": "C:\\Users\\ici\\source\\repos\\Reporting\\Presentation\\Presentation.csproj",
+      "projectPath": "C:\\Users\\ici\\Source\\Repos\\ReportingWeb_API\\Presentation\\Presentation.csproj",
       "packagesPath": "C:\\Users\\ici\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ici\\source\\repos\\Reporting\\Presentation\\obj\\",
+      "outputPath": "C:\\Users\\ici\\source\\repos\\ReportingWeb_API\\Presentation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ici\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6435,14 +6435,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ici\\source\\repos\\Reporting\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\ici\\source\\repos\\Reporting\\Entities\\Entities.csproj"
+            "C:\\Users\\ici\\Source\\Repos\\ReportingWeb_API\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\ici\\Source\\Repos\\ReportingWeb_API\\Entities\\Entities.csproj"
             },
-            "C:\\Users\\ici\\source\\repos\\Reporting\\Repositories\\Repositories.csproj": {
-              "projectPath": "C:\\Users\\ici\\source\\repos\\Reporting\\Repositories\\Repositories.csproj"
+            "C:\\Users\\ici\\Source\\Repos\\ReportingWeb_API\\Repositories\\Repositories.csproj": {
+              "projectPath": "C:\\Users\\ici\\Source\\Repos\\ReportingWeb_API\\Repositories\\Repositories.csproj"
             },
-            "C:\\Users\\ici\\source\\repos\\Reporting\\Services\\Services.csproj": {
-              "projectPath": "C:\\Users\\ici\\source\\repos\\Reporting\\Services\\Services.csproj"
+            "C:\\Users\\ici\\Source\\Repos\\ReportingWeb_API\\Services\\Services.csproj": {
+              "projectPath": "C:\\Users\\ici\\Source\\Repos\\ReportingWeb_API\\Services\\Services.csproj"
             }
           }
         }
